@@ -1,2 +1,2 @@
-#Tree (Linked & Array)
-(./result.png)
+# Tree (Linked & Array)
+![](./img/result.png)
